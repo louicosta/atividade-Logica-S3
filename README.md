@@ -1,4 +1,9 @@
-# Exercícios de Lógica Reprograma S3
+<span align="center">
+
+#  Exercícios de Lógica Reprograma S3 </h2>
+
+</span>
+
 
 ## Repositório com as resoluções dos exercícios propostos pela professora Simara utilizando Função, Estrutura condicional e Escopo
 
@@ -20,7 +25,12 @@
 
 7 - Crie uma função que recebe 2 parâmetros e retorna o resultado da divisão entre eles. Além disso, se o resto dessa divisão for zero deverá imprimir no console o valor e dizer que ele é par.
 
-## Aprendizado da semana! 
+
+<span align="center">
+
+## <img src="https://user-images.githubusercontent.com/101025726/163484804-691ab689-7347-41e4-8fcc-06011eb830d4.gif" width="100px"> Aprendizado da semana! </h2>
+
+</span>
 
 * Lógica é algo que sempre temos que estar revendo, ela pode possuir mais de uma forma de escrever pra chegar ao mesmo resultado;
 
@@ -30,3 +40,6 @@
 
 * Um código organizado e limpo é bom pra que outras pessoas entendam a sua linha de raciocínio;
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/101025726/163480446-d46e80ab-3ce4-4d1d-a16a-4124963cc5fe.gif" width="400px" />
+</div>
